@@ -1,3 +1,5 @@
+<?php $root = "/task-tracker" ?>
+
 <nav>
   <ul>
     <li><a href="<?php echo "$root" ?>">Home</a></li>
