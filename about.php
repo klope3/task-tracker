@@ -10,7 +10,7 @@
 
 <body>
   <?php include "navbar.php" ?>
-  This is the home page.
+  <div>This is a simple task tracker app.</div>
 </body>
 
 </html>
